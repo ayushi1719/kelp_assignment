@@ -35,5 +35,5 @@ npm install
 
 ### 5. **Hit the CSV to JSON Convertor API**
 
-Hit the API Endpoint:
+API Endpoint:
 http://localhost:4000/kelpApi/load_data
