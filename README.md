@@ -22,6 +22,7 @@ psql -U postgres -f postgreSetup.sql
 In the project root directory, create a .env file with the following content:
 
 PORT = 4000
+
 CSV_FILE_PATH = src/data/users_details.csv
 
 DATABASE_URL=postgres://kelp_user:kelp@123@localhost:5432/kelp_db
