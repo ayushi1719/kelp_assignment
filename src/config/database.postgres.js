@@ -1,5 +1,4 @@
 const {Pool} = require('pg');
-const { database, password, connectionString } = require('pg/lib/defaults.js');
 
 const pool = new Pool({
     connectionString: process.env.DATABASE_URL
