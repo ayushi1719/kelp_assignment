@@ -5,9 +5,9 @@ This is a Node.js application for managing and processing user data. It uploads 
 ## Setup Instructions
 
 ### 1. **Clone the Repository**
-First, clone the repository to your local machine:
+First, clone the repository to your local machine [From 'main' branch]:
 
-git clone https://github.com/ayushi1719/kelp_assignment.git
+git clone --branch main https://github.com/ayushi1719/kelp_assignment.git --single-branch
 
 
 ### 2. **PostgreSQL DB setup**
